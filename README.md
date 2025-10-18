@@ -1,4 +1,5 @@
 # Majid
 gitlab
 this is my first git lab
-this is pull
+this is pull<br>
+this is fetch
